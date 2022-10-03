@@ -3,7 +3,7 @@ from __future__ import absolute_import
 from __future__ import print_function
 import hashlib
 import random
-import src.names
+import src.names as names
 import smtplib
 from six.moves import input
 import csv
